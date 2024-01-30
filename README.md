@@ -1,5 +1,5 @@
 # SoftwareEngineering_FinalProject
-This is my final project for my Software Engineering class I took at UCO. It as a side-scrolling shooter game coded from scratch in Java. You are a fighter pilot who's objective is to get as many points as possible without dying.
+This is my final project for my Software Engineering class I took. It as a side-scrolling shooter game coded from scratch in Java. You are a fighter pilot who's objective is to get as many points as possible without dying.
 
 Final Presentation of the project.
 
